@@ -1,0 +1,8 @@
+# Ignore binaries
+
+CVE-2012-0217/CVE-2012-0217
+CVE-2012-4576/CVE-2012-4576
+
+CVE-2024-36904/codes/CVE-2024-36904-trigger
+CVE-2024-36904/codes/syzkaller_reproducer
+CVE-2024-36904/codes/syzkaller_reproducer_minimized
