@@ -8,4 +8,6 @@ CVE-2012-0217  - Exploit for a vulnerability affecting the Intel CPUs (sysret vu
 CVE-2012-4576  - Exploit for a vulnerability affecting the Linux compatibility subsystem in the FreeBSD kernel. It spawns a root shell when executed successfully.
 
 CVE-2024-36904 - Materials for the vulnerability we discovered in the core of the TCP subsystem in the Linux kernel. It contains kernel source code, patch, proofs of concept and other related files.
+
+CVE-2023-52922 - Materials for a use-after-free vulnerability present in the CAN BCM subsystem. It contains the vulnerable kernel packages, proofs of concept, a GDB initialization file (.gdbinit) and data from executions.
 </div>
